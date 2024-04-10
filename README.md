@@ -7,3 +7,4 @@
 <br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,python,c,rust,discord,vim,neovim,gmail,github,zsh)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
